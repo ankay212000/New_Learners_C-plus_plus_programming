@@ -1,5 +1,6 @@
-#include <iostream> 
-using namespace std; 
+//What is the output of the following C++ program
+//Add required header files
+
 int main() 
 { 
     for (int i = 10; i > 6; i = i - 2) 
