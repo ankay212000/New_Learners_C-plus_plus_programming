@@ -30,7 +30,7 @@ Example How to specify?
 ### Problem 6
 - Issue number-13
  
-//output will be 
+output will be 
 
 Enter number of rows: 5
 
@@ -44,4 +44,4 @@ Enter number of rows: 5
 
 11 12 13 14 15 
 
-//output is called-Pascal's Triangle.
+output is called-Pascal's Triangle.
