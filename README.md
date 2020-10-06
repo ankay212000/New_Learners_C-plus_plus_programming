@@ -26,12 +26,20 @@ Example How to specify?
 - Then upload the file if necessary
 
 ### Problem 6
--Issue number-13
+- Issue number-13
+ 
 //output will be 
+
 Enter number of rows: 5
-1 
-2 3 
+
+1
+
+2 3
+
 4 5 6 
+
 7 8 9 10 
+
 11 12 13 14 15 
+
 //output is called-Pascal's Triangle.
