@@ -45,3 +45,7 @@ Enter number of rows: 5
 11 12 13 14 15 
 
 output is called-Pascal's Triangle.
+
+### Issue 2
+ Checking equality without using comparison or arithmetic operator:
+ - using bitwise XOR
