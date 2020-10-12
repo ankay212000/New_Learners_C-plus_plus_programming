@@ -1,4 +1,7 @@
-// include all the required header files
+//Header Files Required are:
+#include<iostream>
+#include<iomanip>
+using namespace std;
 
 int main()
 {
