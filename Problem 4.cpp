@@ -6,9 +6,11 @@ using namespace std;
 
 int main()
 {
-   int a,b;
-   cin>>a>>b;
-   b=(a+b)-(a=b);
-   cout<<a<<" "<<b;
+   int a,b;  // defining the variables
+   cin>>a>>b; // taking input
+   b=(a+b)-(a=b); // swapping takes place, in the part (a=b) 'a' takes the value of 'b' and then it's value is subtracted from the sum of 2 numbers 
+   // effectively the operation is like (a+b)-b, which gives us 'a' that is assigned to b 
+   // this is how the swapping takes place
+   cout<<a<<" "<<b; // output the swaped value
    return 0;
 }
