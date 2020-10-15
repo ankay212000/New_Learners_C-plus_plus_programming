@@ -61,3 +61,7 @@ output is called-Pascal's Triangle.
   12=> 1+2=3. 
   
   So output would be 3.
+
+### Problem 2
+- Bug 1 => variable 'Test' is not decremented due to which infinite while loop
+- Bug 2 => no input for variable 'a' so garbage value is printed
