@@ -49,3 +49,6 @@ output is called-Pascal's Triangle.
 ### Issue 2
  Checking equality without using comparison or arithmetic operator:
  - using bitwise XOR
+ 
+### Problem 10 
+- Rotates the array circular right
