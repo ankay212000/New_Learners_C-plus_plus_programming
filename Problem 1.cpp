@@ -1,4 +1,4 @@
-//Header Files Required are:
+//Header files required are:
 #include<iostream>
 #include<iomanip>
 using namespace std;
