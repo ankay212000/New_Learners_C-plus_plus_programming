@@ -52,3 +52,12 @@ output is called-Pascal's Triangle.
  
 ### Problem 10 
 - Rotates the array circular right
+
+### Problem 8
+- This program calculates the sum of digits till a single digit is obtained, for ex:
+
+  534=> 5+3+4=12
+  
+  12=> 1+2=3. 
+  
+  So output would be 3.
