@@ -65,3 +65,6 @@ output is called-Pascal's Triangle.
 ### Problem 2
 - Bug 1 => variable 'Test' is not decremented due to which infinite while loop
 - Bug 2 => no input for variable 'a' so garbage value is printed
+
+### Problem 4
+- It is a simple program that swaps the values of 2 variables in a single line.
